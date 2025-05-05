@@ -1,0 +1,16 @@
+phidata 
+duckduckgo-search 
+yfinance 
+fastapi 
+uvicorn 
+groq 
+openai
+numpy 
+pandas 
+matplotlib
+seaborn 
+cvxpy 
+transformers
+torch
+python-dotenv
+OpenBB
