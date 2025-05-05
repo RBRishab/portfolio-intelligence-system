@@ -48,3 +48,32 @@ The system is built on a modular **multi-agent architecture** where each agent p
 ```bash
 git clone https://github.com/your-username/capstone-financial-agent.git
 cd capstone-financial-agent
+
+2. Create and Activate a Virtual Environment
+bash
+Copy
+Edit
+python3 -m venv venv
+source venv/bin/activate
+3. Install Requirements
+bash
+Copy
+Edit
+pip install -r requirements.txt
+4. Add Your API Keys to a .env File
+Create a file called .env in the root directory:
+
+env
+Copy
+Edit
+# Example .env
+OPENAI_API_KEY=sk-...
+GROQ_API_KEY=sk-...
+PHI_API_KEY=pk-...
+✅ These keys are used to power GPT-4 (OpenAI), LLaMA3 (Groq), and the Phidata UI.
+
+▶️ Run the Playground
+bash
+Copy
+Edit
+python playground.py
