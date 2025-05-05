@@ -146,4 +146,8 @@ Try these in the Playground:
 
 ## ✅ License
 
-🔒 This is a **private educational project**. No license is included for public use.
+This project is licensed under **Creative Commons Attribution 4.0 (CC BY 4.0)**.  
+➡️ You can share and build on this work for any purpose.  
+➡️ **You must provide credit to the original author: Rishab Reddy Bandi**  
+📖 [Read the license terms](https://creativecommons.org/licenses/by/4.0/)
+
